@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Category 2 &#8211; Theme One</title>
+	<atom:link href="http://github.com/Redwan29/wp_theme_one/category/category-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/Redwan29/wp_theme_one</link>
+	<description>Theme Practicing</description>
+	<lastBuildDate>Sat, 16 Feb 2019 17:37:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>http://github.com/Redwan29/wp_theme_one/wp-content/uploads/2019/02/favicon-150x150.png</url>
+	<title>Category 2 &#8211; Theme One</title>
+	<link>http://github.com/Redwan29/wp_theme_one</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>There are many variations of passages</title>
+		<link>http://github.com/Redwan29/wp_theme_one/2019/02/16/there-are-many-variations-of-passages-2/</link>
+		<comments>http://github.com/Redwan29/wp_theme_one/2019/02/16/there-are-many-variations-of-passages-2/#comments</comments>
+		<pubDate>Sat, 16 Feb 2019 16:26:04 +0000</pubDate>
+		<dc:creator><![CDATA[redwan]]></dc:creator>
+				<category><![CDATA[Category 2]]></category>
+		<category><![CDATA[Category 3]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp_learn/?p=63</guid>
+		<description><![CDATA[Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, [&#8230;]]]></description>
+				<content:encoded><![CDATA[
+<p> Contrary to popular belief, Lorem Ipsum is not simply random text. It  has roots in a piece of classical Latin literature from 45 BC, making it  over 2000 years old. Richard McClintock, a Latin professor at  Hampden-Sydney College in Virginia, looked up one of the more obscure  Latin words, consectetur, from a Lorem Ipsum passage, and going through  the cites of the word in classical literature, discovered the  undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33  of &#8220;de Finibus Bonorum et Malorum&#8221; (The Extremes of Good and Evil) by  Cicero, written in 45 BC. This book is a treatise on the theory of  ethics, very popular during the Renaissance. The first line of Lorem  Ipsum, &#8220;Lorem ipsum dolor sit amet..&#8221;, comes from a line in section  1.10.32 </p>
+
+
+
+<p>
+Contrary to popular belief, Lorem Ipsum is not simply random text. It 
+has roots in a piece of classical Latin literature from 45 BC, making it
+ over 2000 years old. Richard McClintock, a Latin professor at 
+Hampden-Sydney College in Virginia, looked up one of the more obscure 
+Latin words, consectetur, from a Lorem Ipsum passage, and going through 
+the cites of the word in classical literature, discovered the 
+undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 
+of &#8220;de Finibus Bonorum et Malorum&#8221; (The Extremes of Good and Evil) by 
+Cicero, written in 45 BC. This book is a treatise on the theory of 
+ethics, very popular during the Renaissance. The first line of Lorem 
+Ipsum, &#8220;Lorem ipsum dolor sit amet..&#8221;, comes from a line in section 
+1.10.32
+
+</p>
+]]></content:encoded>
+			<wfw:commentRss>http://github.com/Redwan29/wp_theme_one/2019/02/16/there-are-many-variations-of-passages-2/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Lorem Ipsum is not simply random text.</title>
+		<link>http://github.com/Redwan29/wp_theme_one/2019/02/16/lorem-ipsum-is-not-simply-random-text/</link>
+		<comments>http://github.com/Redwan29/wp_theme_one/2019/02/16/lorem-ipsum-is-not-simply-random-text/#comments</comments>
+		<pubDate>Sat, 16 Feb 2019 16:24:55 +0000</pubDate>
+		<dc:creator><![CDATA[redwan]]></dc:creator>
+				<category><![CDATA[Category 1]]></category>
+		<category><![CDATA[Category 2]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp_learn/?p=61</guid>
+		<description><![CDATA[It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many [&#8230;]]]></description>
+				<content:encoded><![CDATA[
+<p> It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its layout. The point of  using Lorem Ipsum is that it has a more-or-less normal distribution of  letters, as opposed to using &#8216;Content here, content here&#8217;, making it  look like readable English. Many desktop publishing packages and web  page editors now use Lorem Ipsum as their default model text, and a  search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their  infancy. Various versions have evolved over the years, sometimes by  accident, sometimes on purpose (injected humour and the like). </p>
+
+
+
+<p>
+It is a long established fact that a reader will be distracted by the 
+readable content of a page when looking at its layout. The point of 
+using Lorem Ipsum is that it has a more-or-less normal distribution of 
+letters, as opposed to using &#8216;Content here, content here&#8217;, making it 
+look like readable English. Many desktop publishing packages and web 
+page editors now use Lorem Ipsum as their default model text, and a 
+search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their 
+infancy. Various versions have evolved over the years, sometimes by 
+accident, sometimes on purpose (injected humour and the like).
+
+</p>
+]]></content:encoded>
+			<wfw:commentRss>http://github.com/Redwan29/wp_theme_one/2019/02/16/lorem-ipsum-is-not-simply-random-text/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Contrary to popular belief, Lorem Ipsum</title>
+		<link>http://github.com/Redwan29/wp_theme_one/2019/02/16/contrary-to-popular-belief-lorem-ipsum/</link>
+		<comments>http://github.com/Redwan29/wp_theme_one/2019/02/16/contrary-to-popular-belief-lorem-ipsum/#respond</comments>
+		<pubDate>Sat, 16 Feb 2019 12:31:18 +0000</pubDate>
+		<dc:creator><![CDATA[redwan]]></dc:creator>
+				<category><![CDATA[Category 2]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp_learn/?p=50</guid>
+		<description><![CDATA[Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, [&#8230;]]]></description>
+				<content:encoded><![CDATA[
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It
+ has roots in a piece of classical Latin literature from 45 BC, making 
+it over 2000 years old. Richard McClintock, a Latin professor at 
+Hampden-Sydney College in Virginia, looked up one of the more obscure 
+Latin words, consectetur, from a Lorem Ipsum passage, and going through 
+the cites of the word in classical literature, discovered the 
+undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 
+of &#8220;de Finibus Bonorum et Malorum&#8221; (The Extremes of Good and Evil) by 
+Cicero, written in 45 BC. This book is a treatise on the theory of 
+ethics, very popular during the Renaissance. The first line of Lorem 
+Ipsum, &#8220;Lorem ipsum dolor sit amet..&#8221;, comes from a line in section 
+1.10.32.</p>
+
+
+
+<p>The standard chunk of Lorem Ipsum used since the 1500s is
+ reproduced below for those interested. Sections 1.10.32 and 1.10.33 
+from &#8220;de Finibus Bonorum et Malorum&#8221; by Cicero are also reproduced in 
+their exact original form, accompanied by English versions from the 1914
+ translation by H. Rackham.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://github.com/Redwan29/wp_theme_one/2019/02/16/contrary-to-popular-belief-lorem-ipsum/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Many desktop publishing packages and web</title>
+		<link>http://github.com/Redwan29/wp_theme_one/2019/02/16/many-desktop-publishing-packages-and-web/</link>
+		<comments>http://github.com/Redwan29/wp_theme_one/2019/02/16/many-desktop-publishing-packages-and-web/#respond</comments>
+		<pubDate>Sat, 16 Feb 2019 12:30:09 +0000</pubDate>
+		<dc:creator><![CDATA[redwan]]></dc:creator>
+				<category><![CDATA[Category 2]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp_learn/?p=48</guid>
+		<description><![CDATA[It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many [&#8230;]]]></description>
+				<content:encoded><![CDATA[
+<p> It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its layout. The point of  using Lorem Ipsum is that it has a more-or-less normal distribution of  letters, as opposed to using &#8216;Content here, content here&#8217;, making it  look like readable English. Many desktop publishing packages and web  page editors now use Lorem Ipsum as their default model text, and a  search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their  infancy. Various versions have evolved over the years, sometimes by  accident, sometimes on purpose (injected humour and the like). </p>
+
+
+
+<p>
+It is a long established fact that a reader will be distracted by the 
+readable content of a page when looking at its layout. The point of 
+using Lorem Ipsum is that it has a more-or-less normal distribution of 
+letters, as opposed to using &#8216;Content here, content here&#8217;, making it 
+look like readable English. Many desktop publishing packages and web 
+page editors now use Lorem Ipsum as their default model text, and a 
+search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their 
+infancy. Various versions have evolved over the years, sometimes by 
+accident, sometimes on purpose (injected humour and the like).
+
+</p>
+]]></content:encoded>
+			<wfw:commentRss>http://github.com/Redwan29/wp_theme_one/2019/02/16/many-desktop-publishing-packages-and-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lorem Ipsum is simply dummy text</title>
+		<link>http://github.com/Redwan29/wp_theme_one/2019/02/16/lorem-ipsum-is-simply-dummy-text-2/</link>
+		<comments>http://github.com/Redwan29/wp_theme_one/2019/02/16/lorem-ipsum-is-simply-dummy-text-2/#respond</comments>
+		<pubDate>Sat, 16 Feb 2019 12:29:12 +0000</pubDate>
+		<dc:creator><![CDATA[redwan]]></dc:creator>
+				<category><![CDATA[Category 2]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp_learn/?p=46</guid>
+		<description><![CDATA[simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining [&#8230;]]]></description>
+				<content:encoded><![CDATA[
+<p> simply dummy text of the printing and typesetting industry. Lorem Ipsum  has been the industry&#8217;s standard dummy text ever since the 1500s, when  an unknown printer took a galley of type and scrambled it to make a type  specimen book. It has survived not only five centuries, but also the  leap into electronic typesetting, remaining essentially unchanged. It  was popularised in the 1960s with the release of Letraset sheets  containing Lorem Ipsum passages, and more recently with desktop  publishing software like Aldus PageMaker including versions of Lorem  Ipsum </p>
+
+
+
+<p>
+simply dummy text of the printing and typesetting industry. Lorem Ipsum 
+has been the industry&#8217;s standard dummy text ever since the 1500s, when 
+an unknown printer took a galley of type and scrambled it to make a type
+ specimen book. It has survived not only five centuries, but also the 
+leap into electronic typesetting, remaining essentially unchanged. It 
+was popularised in the 1960s with the release of Letraset sheets 
+containing Lorem Ipsum passages, and more recently with desktop 
+publishing software like Aldus PageMaker including versions of Lorem 
+Ipsum
+
+</p>
+]]></content:encoded>
+			<wfw:commentRss>http://github.com/Redwan29/wp_theme_one/2019/02/16/lorem-ipsum-is-simply-dummy-text-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>It is a long established fact</title>
+		<link>http://github.com/Redwan29/wp_theme_one/2019/02/16/it-is-a-long-established-fact/</link>
+		<comments>http://github.com/Redwan29/wp_theme_one/2019/02/16/it-is-a-long-established-fact/#respond</comments>
+		<pubDate>Sat, 16 Feb 2019 11:02:52 +0000</pubDate>
+		<dc:creator><![CDATA[redwan]]></dc:creator>
+				<category><![CDATA[Category 2]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp_learn/?p=37</guid>
+		<description><![CDATA[It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many [&#8230;]]]></description>
+				<content:encoded><![CDATA[
+<p> It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its layout. The point of  using Lorem Ipsum is that it has a more-or-less normal distribution of  letters, as opposed to using &#8216;Content here, content here&#8217;, making it  look like readable English. Many desktop publishing packages and web  page editors now use Lorem Ipsum as their default model text, and a  search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their  infancy. Various versions have evolved over the years, sometimes by  accident, sometimes on purpose (injected humour and the like). </p>
+
+
+
+<p></p>
+
+
+
+<p>
+It is a long established fact that a reader will be distracted by the 
+readable content of a page when looking at its layout. The point of 
+using Lorem Ipsum is that it has a more-or-less normal distribution of 
+letters, as opposed to using &#8216;Content here, content here&#8217;, making it 
+look like readable English. Many desktop publishing packages and web 
+page editors now use Lorem Ipsum as their default model text, and a 
+search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their 
+infancy. Various versions have evolved over the years, sometimes by 
+accident, sometimes on purpose (injected humour and the like).
+
+</p>
+]]></content:encoded>
+			<wfw:commentRss>http://github.com/Redwan29/wp_theme_one/2019/02/16/it-is-a-long-established-fact/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

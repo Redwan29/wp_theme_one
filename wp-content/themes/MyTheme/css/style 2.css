@@ -1,0 +1,45 @@
+main article img{
+	width: 300px;
+	height: 200px;
+}
+
+figure{
+	background: #ddd;
+	width: 300px;
+	padding: 10px;
+	display: block;
+	margin: 20px auto;
+	display: block;
+}
+figcaption {
+	color: green;
+	text-align: center;
+	font-weight: bold;
+}
+blockquote{
+	background: #ddd;
+	font-size: 14px;
+	margin:30px;
+	padding: 10px;
+	border-left: 2px solid orange;
+}
+main article p{
+	margin: 10px 0;
+}
+
+main article h3 {
+	color: #6b710e;
+	margin: 3px 0;
+	font-size: 20px;
+}
+main {
+	border-top: none;
+}
+.main-bg{
+	border-top: none;
+}
+
+
+
+
+

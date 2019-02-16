@@ -1,0 +1,434 @@
+/*
+    Theme Name: Theme One
+    Version: 1.0.0
+    Author: Redwan Islam
+    Author URI: http://redwan29.github.io/redwanislam
+    Description: This theme is used only for practice purpose. The design of this theme is based on a front end tutorial. It is a very simple design and only for biginner level practice to convert any html website into backend for wordpress theme.
+*/
+
+
+*{
+	margin: 0;
+	padding: 0;
+	scroll-behavior: smooth;
+	font-family: georgian;
+}
+body a{
+    text-decoration: none;
+}
+
+.fix{
+	clear: both;
+}
+
+.main_wrap {
+	width: 100%;
+}
+.wrap {
+	width: 80%;
+	margin: 0 auto;
+}
+.header-bg{
+	background: linear-gradient(to top,	#8B4513,#D2691E);
+}
+header{
+	background: linear-gradient(to top,	#8B4513,#D2691E);
+	padding: 15px;
+	overflow: hidden;
+}
+header .brand{
+	float: left;
+}
+header .brand h2 {
+	color:#ffffff;
+}
+header .brand p {
+	color: #ddd;
+}
+.nav-bg{
+	background-image: linear-gradient(to top,#FFF8DC,#FFEBCD);
+	border-top: 5px solid #800000;
+	border-bottom: 5px solid #800000;
+	
+}
+nav{
+	width: 572px;
+	margin: 0 auto;
+	background-image: linear-gradient(to top,#FFF8DC,#FFEBCD);
+	height: 38px;
+}
+nav ul{
+	background-image: linear-gradient(to top,#FFF8DC,#FFEBCD);
+	list-style-type: none;
+	
+}
+nav ul li{
+	float: left;
+	border-right: 1px solid #6b710e; 
+	
+}
+nav ul li:first-child{
+    border-left: 1px solid #6b710e;
+}
+nav ul li ul li:first-child{
+    border-left: none;
+}
+
+nav ul li a{
+	font-family: arial;
+	text-decoration: none;
+	color: #6b710e; 
+	display: block;
+	padding: 10px 20px;
+	position: relative;
+}
+
+nav ul li a:hover{
+	background-image: linear-gradient(to top,#6b710e,#800000);
+	color: #fff;
+	-moz-transition: 0.2s all ease;
+	-webkit-transition: 0.2s all ease;
+	transition: 0.2s all ease;
+}
+
+
+nav ul li{
+	position: relative;
+}
+nav ul li ul{
+	position: absolute;
+	display: none;
+	background-image: linear-gradient(to top,#FFF8DC,#FFEBCD);
+	width:180px;
+	z-index:999;
+}
+nav ul li ul li:first-child{
+	border-top: 1px solid #6b710e; 
+}
+nav ul li ul li{
+	float: none;
+	border-right: none;
+	border-bottom: 1px solid #6b710e;
+	
+}
+nav ul li:hover ul{
+	display: block;
+}
+
+/*===================================*/
+
+nav ul li ul li{
+	position: relative;
+}
+nav ul li ul li ul{
+	background-image: linear-gradient(to top,#FFF8DC,#FFEBCD);
+	position: absolute;
+	display: none;
+	width: 180px;
+	border-left: 1px solid #6b710e;
+	border-right: 1px solid #6b710e;
+}
+nav ul li ul li:hover ul{
+	display: block;
+	left: 180px;
+	top: -1px;
+}
+
+.main-bg{
+	border-top: 5px solid #6b710e;
+	background: #fff;
+}
+main {
+	margin: 30px auto; 
+	background: #fff;
+	overflow: hidden;
+}
+main article {
+	width: 60%;
+	float: left;
+	margin-right: 20px;
+	padding: 15px;
+	box-sizing: border-box;
+}
+main aside{
+	width: 30%;
+	float: right;
+	padding: 15px;
+	box-sizing: border-box;
+}
+
+main article h2 {
+	color: #6b710e;
+	margin: 5px 0 10px 0;
+}
+main p {
+	text-align: justify;
+}
+
+main aside h2 {
+	color: #6b710e;
+	margin: 5px 0;
+	font-size: 24px;
+}
+.aside1 {
+	
+	padding-bottom: 26px;
+	margin-bottom: 20px;
+	border-bottom: 2px solid #ddd;
+}
+
+main aside ul{
+	padding-left: 15px;
+}
+
+main aside ul li{
+	list-style-type: circle;
+	border-bottom: 1px dotted #6b710e;
+}
+main aside ul li a{
+	text-decoration: none;
+}
+
+
+main article .art1 img {
+	width: 80px;
+	height: 80px;
+	float: left;
+	border: 1px solid #6b710e;
+	border-radius: 3px;
+	margin-right:10px;
+	margin-top: 5px;
+	
+}
+
+main article .art1 p{
+	display: inline-block;
+	float: right;
+	width: 500px;
+}
+
+main article .art1 {
+	margin-bottom: 10px;
+	border-bottom: 2px solid #ddd;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+
+.footer-bg{
+	background-image: linear-gradient(to top,#6b710e,#800000);
+}
+footer {
+	background-image: linear-gradient(to top,#6b710e,#800000);
+	text-align: center;
+	color: #fff;
+	padding: 20px 0;
+}
+
+div.search-form{
+	list-style: none;
+	float: right;
+}
+
+.social-bar{
+	list-style: none;
+	position: fixed;
+	top: 25%;
+	left: 0;
+	z-index: 999;
+}
+
+.social-bar li img{
+	padding: 5px;
+	float: none;
+	width: 40px;
+	height: 40px;
+	background: #fff;
+	border-radius: 50%;
+	box-shadow: 1px 2px 7px 2px #484141;
+	
+}
+.social-bar li img:hover{
+	background: rgba(221,221,221,0.7);
+	border-radius: 50%;
+}
+
+
+#up img{
+	width: 32px;
+	height: 32px;
+	position: fixed;
+	right: 0;
+	top: 85%;
+	padding: 10px;
+	z-index:99;
+}
+
+#up img:hover{
+	width: 40px;
+	height: 40px;
+}
+
+
+
+/*=========Search Form=======*/
+
+#searchform label{
+    display: none;
+}
+#searchform input.search-input{
+    padding: 7px;
+    border-radius: 7px;
+    border: 2px solid #ddd;
+}
+#searchform input.btn{
+    color: #fff;
+    background-color: #00688B;
+    padding: 7px;
+    border-radius: 7px;
+    border: 1px solid #009ACD;
+}
+
+/*====Thumbnail big Image=====*/
+span.thumb-size img{
+    width: 100%!important;
+    height: auto!important;
+}
+span p{
+    display: inline-block;
+	float: none!important;
+	width: 100%!important;
+}
+.post-meta{
+    font-size: 14px;
+    margin: -5px 0 10px 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+   
+}
+.post-meta a{
+    color: #000;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.post-meta span{
+    color: #000;
+    font-weight: bold;
+}
+
+
+
+
+
+/* Pagination */
+
+.pagination {
+	clear: both;
+    padding: 5px 0;
+    position: relative;
+    font-size: 96%;
+    line-height: 13px;
+    margin: 0.5em 0;
+    overflow: hidden;
+}
+.pagination span{padding:0 13px;}
+.pagination span, .pagination a {
+	display:block;
+	float:left;
+	margin: 2px 2px 2px 0;
+	padding:11px;
+	text-decoration:none;
+	width:auto;
+	color:#fff;
+	background: #555;
+}
+ 
+.pagination a:hover{
+	color:#fff;
+	background: #067092;
+}
+ 
+.pagination .current{
+	padding:11px;
+	background: #3279BB;
+	color:#fff;
+}
+
+
+.nivo-main-image{
+    height: 400px!important;
+}
+.nivoSlider img{
+    height: 400px!important;
+}
+
+
+
+
+/*============ Comment Box Style =========*/
+#respond { 
+background: #fbfbfb;
+padding:0 10px 0 10px;
+}
+  
+/* Highlight active form field */
+  
+#respond input[type=text], textarea {
+  -webkit-transition: all 0.30s ease-in-out;
+  -moz-transition: all 0.30s ease-in-out;
+  -ms-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out;
+  outline: none;
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid #DDDDDD;
+}
+   
+   
+#respond input[type=text]:focus,
+input[type=email]:focus, 
+input[type=url]:focus,
+textarea:focus {
+box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+margin: 5px 1px 3px 0px;
+border: 2px solid rgba(81, 203, 238, 1);
+}
+
+#submit {
+background:-moz-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+background:-webkit-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+background:-o-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+background:-ms-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+background-color:#44c767;
+-moz-border-radius:28px;
+-webkit-border-radius:28px;
+border-radius:28px;
+border:1px solid #18ab29;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:Arial;
+font-size:17px;
+padding:16px 31px;
+text-decoration:none;
+text-shadow:0px 1px 0px #2f6627;
+} 
+  
+#submit:hover {
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #5cbf2a), color-stop(1, #44c767));
+background:-moz-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+background:-webkit-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+background:-o-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+background:-ms-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+background-color:#5cbf2a; 
+}
+#submit:active { 
+position:relative;
+top:1px;
+}
+
+
+
+
+
